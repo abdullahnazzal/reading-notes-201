@@ -6,3 +6,4 @@
 | File      | Link |
 | ----------- | ----------- |
 | Read01  | [HTML & JS](class-01.md)|
+| Read01  | [Basics of HTML, CSS & JS](class-02.md)|
