@@ -142,11 +142,11 @@ CSS allows you to create rules that control the way that each individual box.
 
 **BLOCK & INLINE ELEMENTS**
 
-![BLOCK & INLINE ELEMENTS](BandI.PNG)
+![BLOCK & INLINE ELEMENTS](img/BandI.PNG)
 
 **CSS Properties Affect How Elements Are Displayed**
 
-![How Affect?](ACss.PNG)
+![How Affect?](img/ACss.PNG)
 
 **Properties** indicate the aspects
 of the element you want to
@@ -169,7 +169,7 @@ to be.
 
 ### Selector:
 
-![Selector](Selector.PNG)
+![Selector](img/Selector.PNG)
 
 ----------------------
 
@@ -177,7 +177,7 @@ to be.
 ## JS
 ### How to use Objects & Methods:
 
-![Objects & Methods](HTUOAM.PNG)
+![Objects & Methods](img/HTUOAM.PNG)
 
 - ## STATEMENTS:
 
@@ -214,7 +214,7 @@ How to assign them a value:
 
 ## Date Object:
 
-![Date Object](DataObject.PNG)
+![Date Object](img/DataObject.PNG)
 
 
 ## FUNCTIONS, METHODS & OBJECTS:
@@ -237,7 +237,7 @@ sets (and both can contain the other).
 
 - In JS there scriot where decision are made that determin which lines of code should be run next.
 
-![Decison Making](DS.PNG)
+![Decison Making](img/DS.PNG)
 
 
 ## Evaluation condition And conditional statement:
@@ -247,7 +247,7 @@ sets (and both can contain the other).
 2: A conditional statement says what to do in a given situation.
 
 
-![Evaluation condition And conditional statement](ECACS.PNG)
+![Evaluation condition And conditional statement](img/ECACS.PNG)
 
 ## Comparison operators: evaluation conditions:
 

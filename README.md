@@ -5,5 +5,6 @@
 
 | File      | Link |
 | ----------- | ----------- |
-| Read01  | [HTML & JS](class-01.md)|
-| Read01  | [Basics of HTML, CSS & JS](class-02.md)|
+| Read01  | [Read: 01 - HTML & JS](class-01.md)|
+| Read02  | [Read: 02 - Basics of HTML, CSS & JS](class-02.md)|
+| Read03  | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)|

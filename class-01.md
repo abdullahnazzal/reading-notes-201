@@ -26,9 +26,9 @@ phones.
 
 Like this image:
 
-![Elements](elements.PNG)
+![Elements](img/elements.PNG)
 ---------------
-![Attributes](attributes.PNG)
+![Attributes](img/attributes.PNG)
 
 `<body>`
 
@@ -64,7 +64,7 @@ browser uses tabs to allow you
 to view multiple pages at the
 same time).
 
-![Ex](ex1.PNG)
+![Ex](img/ex1.PNG)
 
 ## DOCTYPES:
 
@@ -162,7 +162,7 @@ site.
 individual `<article>` or
 `<section>` within the page
 
-![Headers & Footers](h-f.PNG)
+![Headers & Footers](img/h-f.PNG)
 
 **Navigation:**
 
@@ -231,7 +231,7 @@ software called a web browser.
 
 - Properties is a (Characteristics)
 
-![OBJECTS & PROPERTIES](OandP.PNG)
+![OBJECTS & PROPERTIES](img/OandP.PNG)
 
 
 **EVENTS**
