@@ -11,3 +11,5 @@
 | Read04  | [Read: 04 - HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)|
 | Read05  | [Read: 05 - Images, Color, Text](class-05.md)|
 | Read06  | [Read: 06 - JS Object Literals; The DOM](class-06.md)|
+| Read07  | [Read: 07 - HTML Tables; JS Constructor Functions; And Domain Modeling](class-07.md)|
+
