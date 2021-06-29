@@ -12,6 +12,9 @@
 | Read05  | [Read: 05 - Images, Color, Text](class-05.md)|
 | Read06  | [Read: 06 - JS Object Literals; The DOM](class-06.md)|
 | Read07  | [Read: 07 - HTML Tables; JS Constructor Functions; And Domain Modeling](class-07.md)|
-| Read07  | [Read: 08 - More CSS Layout](class-08.md)|
+| Read08  | [Read: 08 - More CSS Layout](class-08.md)|
+| Read09  | [Read: 09 - Forms and JS Events](class-09.md)|
+
+
 
 
