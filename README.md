@@ -14,6 +14,8 @@
 | Read07  | [Read: 07 - HTML Tables; JS Constructor Functions; And Domain Modeling](class-07.md)|
 | Read08  | [Read: 08 - More CSS Layout](class-08.md)|
 | Read09  | [Read: 09 - Forms and JS Events](class-09.md)|
+| Read10  | [Read: 10 - JS Debugging](class-10.md)|
+
 
 
 
