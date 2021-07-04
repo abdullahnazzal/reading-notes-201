@@ -16,6 +16,8 @@
 | Read09  | [Read: 09 - Forms and JS Events](class-09.md)|
 | Read10  | [Read: 10 - JS Debugging](class-10.md)|
 | Read11  | [Read: 11 - Audio, Video, Images](class-11.md)|
+| Read12  | [Read: 12 - Chart.js, Canvas](class-12.md)|
+
 
 
 
