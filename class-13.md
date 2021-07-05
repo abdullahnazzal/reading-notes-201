@@ -45,12 +45,12 @@ The storage event is fired on the window object whenever `setItem()`, `removeIte
 -------
 
 StorageEvent Object
-Property | Type | Description
------------- | -------------| -------
-key | string | the named key that was added, removed, or modified
-oldValue | any| the previous value (now overwritten , or null if a new item was
-newValue | any | the new value, or null if an item was removed
-url* | string| the page which called a method that triggered this change
+|Property | Type | Description|
+|------------ | -------------| -------|
+|key | string | the named key that was added, removed, or modified|
+|oldValue | any| the previous value (now overwritten), or null if a new item was added |
+|newValue | any | the new value, or null if an item was removed|
+|url* | string| the page which called a method that triggered this change |
 	
 					 
 
@@ -61,21 +61,21 @@ url* | string| the page which called a method that triggered this change
 How does it work? Every time a change occurs within the game, we call this function:
 
 
-> `function saveGameState() {`  
->
->`    if (!supportsLocalStorage()) { return false; }`   
-`    localStorage["halma.game.in.progress"] = gGameInProgress;`   
->
->`    for (var i = 0; i < kNumPieces; i++) {`   
-`	localStorage["halma.piece." + i + ".row"] = gPieces[i].row;`    
-`	localStorage["halma.piece." + i + ".column"] = gPieces[i].column;}` 
->  
->`    localStorage["halma.selectedpiece"] = gSelectedPieceIndex;`    
-`    localStorage["halma.selectedpiecehasmoved"] =gSelectedPieceHasMoved;`    
-`    localStorage["halma.movecount"] = gMoveCount;`    
-`    return true;`     
-`}`  
- 
+>  `function saveGameState() {`  
+> 
+> `    if (!supportsLocalStorage()) { return false; }`   
+ `    localStorage["halma.game.in.progress"] = gGameInProgress;`   
+> 
+>  `    for (var i = 0; i < kNumPieces; i++) {`   
+ `	localStorage["halma.piece." + i + ".row"] = gPieces[i].row;`    
+ `	localStorage["halma.piece." + i + ".column"] = gPieces[i].column;}` 
+>   
+> `    localStorage["halma.selectedpiece"] = gSelectedPieceIndex;`    
+ `     localStorage["halma.selectedpiecehasmoved"] =gSelectedPieceHasMoved;`    
+ `    localStorage["halma.movecount"] = gMoveCount;`    
+ `    return true;`     
+ `}`  
+
 **To more info please :[ Visit This Page](http://diveinto.html5doctor.com/storage.html)**
 
 
