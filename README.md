@@ -18,6 +18,9 @@
 | Read11  | [Read: 11 - Audio, Video, Images](class-11.md)|
 | Read12  | [Read: 12 - Chart.js, Canvas](class-12.md)|
 | Read13  | [Read: 13 - Local Storage](class-13.md)|
+| Read14a  | [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)|
+| Read14b  | [Read: 14b - What Google Learned About Teams](class-14b.md)|
+
 
 
 
